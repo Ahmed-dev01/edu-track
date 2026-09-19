@@ -69,6 +69,25 @@ Start the development server:
 npm run dev
 ```
 
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Courses
+![Courses](screenshots/courses.png)
+
+### Attendance
+![Attendance](screenshots/attendance.png)
+
+### Results
+![Results](screenshots/results.png)
+
+## Live Demo
+
+[View EduTrack Live](https://edu-track-ashy.vercel.app/)
+
 ## Author
 
 **Ahmed Raza**
