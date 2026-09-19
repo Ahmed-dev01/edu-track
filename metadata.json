@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack",
+  "description": "Modern, professional, fully responsive University Student Management Dashboard featuring course tracking, attendance analytics, academic results, schedules, assignments, and campus notices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
