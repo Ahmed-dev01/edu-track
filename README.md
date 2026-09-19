@@ -3,6 +3,10 @@
 
 EduTrack is a modern student portal built with React, TypeScript, and Vite. It provides a clean interface for students to manage academic information.
 
+## Live Demo
+
+[View EduTrack Live](https://edu-track-ashy.vercel.app/)
+
 ## Features
 
 - Student Dashboard
