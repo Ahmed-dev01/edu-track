@@ -1,20 +1,72 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
-# Run and deploy your AI Studio app
+# EduTrack – Student Portal
 
-This contains everything you need to run your app locally.
+EduTrack is a modern student portal built with React, TypeScript, and Vite. It provides a clean interface for students to manage academic information.
 
-View your app in AI Studio: https://ai.studio/apps/6dbfa22d-0778-4204-a2c7-0298c5adb996
+## Features
 
-## Run Locally
+- Student Dashboard
+- Student Profile
+- Courses
+- Attendance Tracking
+- Results
+- Timetable
+- Assignments
+- Notices
+- Settings
+- Responsive User Interface
 
-**Prerequisites:**  Node.js
+## Technologies Used
 
+- React
+- TypeScript
+- Vite
+- CSS
+- JavaScript
+- Git & GitHub
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Project Structure
+
+```text
+edu-track/
+├── src/
+│   ├── components/
+│   ├── context/
+│   ├── data/
+│   └── types/
+├── public/
+├── package.json
+└── README.md
+```
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Ahmed-dev01/edu-track.git
+```
+
+Navigate to the project:
+
+```bash
+cd edu-track
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Author
+
+**Ahmed Raza**
+
+GitHub: [Ahmed-dev01](https://github.com/Ahmed-dev01)
